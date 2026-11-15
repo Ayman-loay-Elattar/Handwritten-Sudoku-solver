@@ -33,7 +33,7 @@ Each member should complete one block (maximum 200 words per member).
 14-Implement the maximum 3 corrections rule.
 15-Produce correction logs and handle unreadable puzzles.
 
-Git-Log:
+## Git-Log:
 .venv) PS C:\Users\Ayman\OneDrive\Desktop\p7> git log
 commit 3d67e74cd1ad1656f6a52111fc11db094496f3b6 (HEAD -> master)
 Author: P7 Student <p7@example.invalid>
